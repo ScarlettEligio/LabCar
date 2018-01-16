@@ -1,0 +1,88 @@
+/* Los estilos de tu proyecto */
+
+.nav-menu {
+  margin-top: 5vh;
+  padding-left: 3vh;
+  padding-right: 3vh;
+  padding-bottom: 3vh;
+}
+
+/*pegamos el logo a la izquierda*/
+
+.logoforma {
+  text-align: left;
+}
+
+/*acomodamos las imagenes del row two*/
+
+.yellow-taxi {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.yellow-part {
+  position: absolute;
+  top: 20%;
+  left: 60%;
+  width: 38.7%;
+}
+
+/*acomodamos la imagen y el texto del row three*/
+
+.iphoneimg {
+  margin: 4px;
+  text-align: left;
+}
+
+.yellow-bg {
+  background-color: #F7B617;
+}
+
+.imgcontainer {
+  margin: 3vh;
+}
+
+.display-inline-block {
+  display: inline-block;
+}
+
+.margin-cool {
+  margin: 5vh;
+}
+
+.font-size {
+  font-size: 2vh;
+}
+
+.download-text {
+  width: 30%
+}
+
+/*acomodamos la imagen y el texto del row four*/
+
+.padding-five {
+  padding: 5vh;
+}
+
+.transparent-thingy {
+  border-color: inherit;
+  position: absolute;
+  top: 0%;
+  right: 1.3%;
+  width: 35%;
+  padding-left: 3vh;
+  padding-right: 3vh;
+}
+
+.transparent-effect {
+  background-color: black;
+  opacity: 0.5;
+  filter: alpha(opacity=30);
+}
+
+.text-driver {
+  color: rgba(255, 255, 255, 0.9);
+  opacity: 1;
+  filter: none;
+}
